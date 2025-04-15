@@ -90,8 +90,8 @@ secure-data-encryption/
 
 Made with ❤️ using Streamlit & Cryptography.  
 Feel free to connect or contribute!
-**Git Hub:** [https://github.com/Foqia-Sd]
-**LinkedIn:** [https://www.linkedin.com/in/foqia-siddiqui-3357152b5/]
+Git Hub: [https://github.com/Foqia-Sd]
+LinkedIn: [https://www.linkedin.com/in/foqia-siddiqui-3357152b5/]
 
 
 
